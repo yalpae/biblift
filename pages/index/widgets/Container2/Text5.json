@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 105,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "wb44e2330b",
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 31,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 5,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "originalBottomRow": 61,
+  "originalTopRow": 57,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.046875,
+  "parentId": "besglmlong",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 15,
+  "shouldTruncate": false,
+  "text": "Textbooks & Libraries",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 101,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "8n3uuvdtn4",
+  "widgetName": "Text5"
+}

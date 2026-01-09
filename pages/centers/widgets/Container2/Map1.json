@@ -1,0 +1,53 @@
+{
+  "allowClustering": false,
+  "allowZoom": true,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 144,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultMarkers": "[\n  {\n    \"lat\": 40.7128,\n    \"long\": -74.006,\n    \"title\": \"New York\"\n  }\n]",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableMapTypeControl": false,
+  "enablePickLocation": true,
+  "enableSearch": true,
+  "flexVerticalAlignment": "start",
+  "isClickedMarkerCentered": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "x4bey6qkgf",
+  "leftColumn": 1,
+  "mapCenter": {
+    "lat": -34.397,
+    "long": 150.644,
+    "title": ""
+  },
+  "minWidth": 450,
+  "mobileBottomRow": 47,
+  "mobileLeftColumn": 6,
+  "mobileRightColumn": 30,
+  "mobileTopRow": 7,
+  "needsErrorInfo": false,
+  "originalBottomRow": 97,
+  "originalTopRow": 56,
+  "parentColumnSpace": 19.5,
+  "parentId": "for895l5g5",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "topRow": 86,
+  "type": "MAP_WIDGET",
+  "version": 1,
+  "widgetId": "h5siqkhxza",
+  "widgetName": "Map1",
+  "zoomLevel": 50
+}

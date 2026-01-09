@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 28,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "wb44e2330b",
+  "leftColumn": 2,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 14,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 10,
+  "needsErrorInfo": false,
+  "originalBottomRow": 28,
+  "originalTopRow": 13,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.046875,
+  "parentId": "besglmlong",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "shouldTruncate": false,
+  "text": "<strong>BibLift</strong> is a national initiative by <strong>YALPAE:Young African Leaders Pioneers & Entrepreneurs</strong>, that seeks to help all public libraries access the textbooks students need to study, learn, and succeed. \nYALPAE is a registered proudly <strong>Pan-African youth-led non-profit organisation</strong> that seeks to <strong>improve Education & encourage Knowledge & Skills Sharing</strong> as one of its main mission in the African Continent  \n\nMany libraries serve students from multiple school systems but lack the curriculum aligned textbooks those students rely on or do not cater for all subjects or grades. BibLift, a system closes that gap by coordinating textbook donations, financial contributions, and library needs in one transparent system.",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 13,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "gkvmn36pll",
+  "widgetName": "Text4"
+}

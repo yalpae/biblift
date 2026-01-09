@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6960c66858f8b507440e9391_c8edefa4-c234-47f7-a458-ae0f8ea924c9",
+  "id": "centers_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "centers",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

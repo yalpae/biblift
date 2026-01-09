@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 52,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "wb44e2330b",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 42,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 8,
+  "mobileTopRow": 38,
+  "needsErrorInfo": false,
+  "originalBottomRow": 52,
+  "originalTopRow": 37,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.046875,
+  "parentId": "besglmlong",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 61,
+  "shouldTruncate": false,
+  "text": "BibLift is a national textbook support platform developed to support YALPAE's national textbook drive. The platform enables the coordinated tracking of library textbook needs across the country, ensuring that donations are directed where they are most required.\n\nThrough BibLift, YALPAE is able to monitor textbook shortages, track incoming donations, and guide the donation process to ensure libraries receive the appropriate textbooks needed to support students within their communities.\n\nThe platform also allows donors to contribute financially or donate textbooks and be guided to the nearest donation centre or participating library.",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 37,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "udmdoeva1l",
+  "widgetName": "Text8"
+}
