@@ -15,6 +15,8 @@
   "mobileRightColumn": 6,
   "mobileTopRow": 53,
   "needsErrorInfo": false,
+  "originalBottomRow": 93,
+  "originalTopRow": 53,
   "parentColumnSpace": 19.046875,
   "parentId": "besglmlong",
   "parentRowSpace": 10,

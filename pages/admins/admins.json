@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "6960c66858f8b507440e9391_ccb4b726-647f-4384-ba97-377009206e09",
+  "gitSyncId": "6960c66858f8b507440e9391_cfc44b0a-db54-4f8d-9a69-06f04a372b12",
   "unpublishedPage": {
-    "isHidden": false,
+    "isHidden": true,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 1790,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -27,7 +27,7 @@
         }
       }
     ],
-    "name": "index",
-    "slug": "index"
+    "name": "admins",
+    "slug": "admins"
   }
 }
